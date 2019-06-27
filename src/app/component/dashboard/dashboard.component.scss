@@ -1,0 +1,31 @@
+.navbar{
+height: 13%;
+margin-right: -194px;
+}
+// @media (min-width: 992px);
+.col-lg-3 {
+    flex: 0 0 18%;
+    max-width: 36%;
+}
+.btn-outline-success {
+    color: #28a745;
+    border-color: #28a745;
+    margin-left: 6px;
+}
+.table{
+    max-width: 1462px;
+}
+.container {
+    max-width: 1462px;
+}
+.table td {
+    padding: 30px 10px;
+}
+.table th{
+    width: 402px;
+    padding: 24px;
+}
+.table thead{
+    width: 402px;
+    padding: 24px;
+}

@@ -1,0 +1,36 @@
+.navbar{
+    height: 13%;
+}
+.col-lg-3 {
+    flex: 0 0 15%;
+    max-width: 36%;
+}
+.btn-outline-success {
+    color: #28a745;
+    border-color: #28a745;
+    margin-left: 6px;
+}
+table.dataTable tbody td {
+    padding: 30px 10px;
+}
+.table .button {
+    color: #28a745;
+    border-color: #28a745;
+    margin-top: 5px;
+    width: 169px;
+}
+.table{
+    max-width: 1462px;
+}
+.container {
+    max-width: 1462px;
+}
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    padding: 28px;
+}
+.table th{
+    width: 402px;
+    padding: 24px;
+}
